@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Иван",
+      "phone": "79027777777",
+      "email": "ivan_mail@mail.ru"
+    },
+    {
+      "id": 2,
+      "name": "Ваня",
+      "phone": "79027777777",
+      "email": "vanya_mail@mail.ru"
+    },
+    {
+      "id": 1,
+      "name": "Миша",
+      "phone": "79026246477",
+      "email": "misha_mail@mail.ru"
+    },
+    {
+      "id": 1,
+      "name": "Ирина",
+      "phone": "79024352777",
+      "email": "irina_mail@mail.ru"
+    },
+    {
+      "id": 1,
+      "name": "Никита",
+      "phone": "79068456456",
+      "email": "nikita_mail@mail.ru"
+    }
+  ]
+}
